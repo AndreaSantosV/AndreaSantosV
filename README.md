@@ -1,16 +1,16 @@
-## Hi there 👋
+## Introducción
 
-<!--
-**AndreaSantosV/AndreaSantosV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Andrea, soy estudiante de Ingeniería en Sistemas Computacionales.
 
-Here are some ideas to get you started:
+# ¿Qué me interesa aprender?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa aprender mas sobre el *desarrollo web*, especialmente la creación y diseño de paginas y aplicaciones web. También me interesa aprender mas sobre
+*ciberseguridad y redes*.
+
+## En que estoy trabajando 
+
+Actualmente estoy realizando unos proyectos y actividades académicas relacionadas con bases de datos y desarrollo web.
+
+# Pasatiempos
+
+En mi tiempo libre me gusta jugar videojuegos, leer, ver series y películas.
